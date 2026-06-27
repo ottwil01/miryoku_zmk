@@ -1,3 +1,9 @@
 #include "../miryoku/custom_config.h"
 #include "../miryoku/mapping/36/toucan36.h"
 #include "../miryoku/miryoku.dtsi"
+
+&glidepoint_listener {
+    scroller {
+        layers = <4>;
+    };
+};
