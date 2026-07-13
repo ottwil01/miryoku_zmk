@@ -4,6 +4,6 @@
 
 &glidepoint_listener {
     scroller {
-        layers = <5>;
+        layers = <4 5>;
     };
 };
